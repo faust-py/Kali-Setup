@@ -158,3 +158,4 @@ The script also configures system settings, repositories, PATH persistence, alia
 ```bash
 git clone https://github.com/yourusername/Kali Setup.git
 cd Kali Setup
+./install
