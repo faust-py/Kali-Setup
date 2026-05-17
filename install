@@ -391,7 +391,6 @@ main() {
 EOF
     echo -e "${NC}"
 
-    preflight_checks
     configure_system
     add_repositories
     install_apt_packages
